@@ -27,6 +27,6 @@ Git
 
 Clone the Repository
 
-git clone https://github.com/Chirag-1020/Prime-number-finder-using-python0
+git clone https://github.com/Chirag-1020/Prime-number-finder-using-python
 
 
